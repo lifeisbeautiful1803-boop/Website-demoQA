@@ -20,6 +20,8 @@ public class DBUtils {
 		System.out.println(rs.getString("username"));
 		System.out.println(rs.getString("pswd"));
 		System.out.println(rs.getString("pswd1"));
+		System.out.println(rs.getString("pswd1"));
+		System.out.println(rs.getString("pswd1"));
 		}
 	
 	}
