@@ -19,6 +19,7 @@ public class DBUtils {
 		while(rs.next()){		
 		System.out.println(rs.getString("username"));
 		System.out.println(rs.getString("pswd"));
+		System.out.println(rs.getString("pswd1"));
 		}
 	
 	}
